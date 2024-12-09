@@ -1,9 +1,6 @@
-Salut ! Bienvenue sur mon profile Github ! 
-Mon pseudonyme est `PommeBleue`, ce choix a été motivé par la joliesse du nom "Pomme", mais aussi par le fait que, entre nous, la couleur bleue est la meilleure des couleurs !
-Je suis actuellement étudiant au département d'enseignement et de recherche de mathématiques de l'ENS Paris-Saclay, anciennement en MPI* (classe préparatoire) puis à l'ENS Ker Lann.
+Bienvenue sur mon profil Github !
 
-Généralement, j'adore tout ce qui est théorique, et j'aime bien la résolution de problèmes. Je m'intéresse aux mathématiques et à l'informatique théorique.
-J'aime aussi bien créer des bots de temps en temps (les machines sont nos amies, il faut se montrer aimable avec elles, car après tout, elles nous sont très utiles). 
+Issu d'une classe préparatoire aux grandes écoles (MP2I-MPI*), j'intègre l'ENS Rennes au département de mathématiques (fin 2023) puis le département de recherche et d'enseignement de mathématiques de l'ENS Paris-Saclay via le Second Concours et pour une durée de trois ans (fin 2024). 
 
 Visitez ma [page personnelle](https://perso.eleves.ens-rennes.fr/people/amar.ahmane) pour du contenu académique.
 
