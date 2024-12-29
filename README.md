@@ -5,4 +5,4 @@ I am a student at [ENS Paris-Saclay](https://ens-paris-saclay.fr/) (France), cur
 
 Visit my [web page](https://perso.eleves.ens-rennes.fr/people/amar.ahmane) for academic info/content.
 
-![tl](https://github-readme-stats.vercel.app/api/top-langs/?username=pommebleue&layout=donut_vertical)
+![tl](https://github-readme-stats.vercel.app/api/top-langs/?username=pommebleue&layout=donut-vertical)
