@@ -1,9 +1,11 @@
-Bienvenue sur mon profil Github !
+# Overview
+Hi and welcome on my Github profile !
 
-Issu d'une classe préparatoire aux grandes écoles (MP2I-MPI*), j'intègre l'ENS Rennes au département de mathématiques (fin 2023) puis le département de recherche et d'enseignement de mathématiques de l'ENS Paris-Saclay via le Second Concours et pour une durée de trois ans (fin 2024). 
+I am a student at [ENS Paris-Saclay](https://ens-paris-saclay.fr/) (France), currently persuing a Master 1 of Mathematics. I'm interested in a wide range of Mathematics, but my interests are growing towards applied and computational Mathematics. 
 
-Visitez ma [page personnelle](https://perso.eleves.ens-rennes.fr/people/amar.ahmane) pour du contenu académique.
-
+Visit my [web page](https://perso.eleves.ens-rennes.fr/people/amar.ahmane) for academic info/content.
+# Other
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pommebleue)
 <!---
 PommeBleue/PommeBleue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
