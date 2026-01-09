@@ -1,4 +1,3 @@
-# Overview
 <div align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -9,14 +8,11 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
+
+# Overview
+
 Hi and welcome on my Github profile !
 
 I am a student at [ENS Paris-Saclay](https://ens-paris-saclay.fr/) (France), currently persuing a Master 1 of Mathematics. I'm interested in a wide range of Mathematics, but my interests are growing towards applied and computational Mathematics. 
 
 Visit my [web page](https://perso.eleves.ens-rennes.fr/people/amar.ahmane) for academic info/content.
-
-# Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PommeBleue&show_icons=true&theme=radical"/>
-</div>
