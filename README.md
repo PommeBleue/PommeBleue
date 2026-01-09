@@ -5,4 +5,4 @@ I am a student at [ENS Paris-Saclay](https://ens-paris-saclay.fr/) (France), cur
 
 Visit my [web page](https://perso.eleves.ens-rennes.fr/people/amar.ahmane) for academic info/content.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PommeBleue)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PommeBleue&show_icons=true&theme=radical)
